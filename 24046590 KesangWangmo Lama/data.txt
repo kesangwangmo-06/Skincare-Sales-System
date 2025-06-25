@@ -1,0 +1,7 @@
+Glycolicserum,Ordinary,438,800,USA
+Night_cream,Cetaphil,116,500,Switzerland
+Sunscreen,BeautyofJoseon,128,700,Korea
+Eyecream,Centella,241,400,China
+Moisturizer,Mamaearth,360,800,India
+FaceCleanser,HadaLabo,667,1000,Japan
+lipbalm_spf,Dermaco,207,1200,India
